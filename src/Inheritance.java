@@ -9,7 +9,7 @@
 //class Employee{
 //    float salary=4000;
 //}
-class Inheritance extends Employee {
+/*class Inheritance extends Employee {
     int bonus=1000;
     public static void main(String[] args) {
         Inheritance i=new Inheritance();
@@ -17,6 +17,8 @@ class Inheritance extends Employee {
         System.out.println(i.salary);
     }
 }
+
+///////////////////////
 class a {
     void display() {
         System.out.println("Gupta");
@@ -37,7 +39,7 @@ class Inheritance extends b{
 
 
 
-
+*/
 
 
 

@@ -20,8 +20,8 @@ class abc {
     public static void main(String[] args) {
               abc s1=new abc(1,2);
               abc s2=new abc(s1);
-        s1.display();
-        s2.display();
+                s1.display();
+                s2.display();
     }
 }
 */
